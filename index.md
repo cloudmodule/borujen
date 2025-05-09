@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome | خوش آمدید
+
+# بروجن دات کام، صفحه ای است برای ارایه صدای مردم.
 ---
 
