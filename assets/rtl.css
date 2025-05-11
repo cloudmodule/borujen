@@ -1,0 +1,25 @@
+/* assets/rtl.css */
+html {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Adjustments for lists, floats, etc. */
+ul, ol {
+  padding-right: 1.5em;
+  padding-left: 0;
+}
+
+blockquote {
+  border-right: 4px solid #ddd;
+  border-left: none;
+  margin-right: 1.5em;
+  margin-left: 0;
+}
+
+/* Fix code blocks (optional) */
+pre, code {
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: bidi-override;
+}
